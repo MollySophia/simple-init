@@ -42,7 +42,7 @@
   gSimpleInitTokenSpaceGuid.PcdLoggerdUseConsole        | TRUE                           | BOOLEAN | 0x0001b202
   gSimpleInitTokenSpaceGuid.PcdConfDefaultPrefix        | "\\simpleinit.uefi"            | VOID*   | 0x0001b301
   gSimpleInitTokenSpaceGuid.PcdConfDefaultStaticPrefix  | "\\simpleinit.static.uefi"     | VOID*   | 0x0001b302
-  gSimpleInitTokenSpaceGuid.PcdGuiDefaultDPI            | 140                            | UINT16  | 0x0001b401
+  gSimpleInitTokenSpaceGuid.PcdGuiDefaultDPI            | 300                            | UINT16  | 0x0001b401
   gSimpleInitTokenSpaceGuid.PcdGuiDefaultRotate         | 0                              | UINT16  | 0x0001b402
   gSimpleInitTokenSpaceGuid.PcdGuiDefaultMouseScale     | 1                              | UINT8   | 0x0001b403
   gSimpleInitTokenSpaceGuid.PcdGuiDefaultMouseOnlyFirst | TRUE                           | BOOLEAN | 0x0001b404
